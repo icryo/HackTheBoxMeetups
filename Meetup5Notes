@@ -12,7 +12,6 @@ https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-copyfile#s
 https://www.amazon.com/Windows-Kernel-Programming-Pavel-Yosifovich/dp/1977593372
 https://github.com/MicrosoftDocs/windows-driver-docs/blob/staging/windows-driver-docs-pr/debugger/getting-started-with-windbg--kernel-mode-.md
 
-
 Payload Review
 https://docs.microsoft.com/en-us/windows/win32/api/lmaccess/nf-lmaccess-netlocalgroupaddmembers
 https://docs.microsoft.com/en-us/windows/win32/api/lmaccess/ns-lmaccess-user_info_1
