@@ -1,5 +1,10 @@
 **Handout**
 
+Downloads
+https://download.sysinternals.com/files/SysinternalsSuite.zip
+https://out7.hex-rays.com/files/idafree76_windows.exe
+http://www.rohitab.com/apimonitor
+
 Driver Walkthrough
 https://www.0xsakthi.rocks/2021/10/driver-hackthebox-writeup.html
 https://www.cl4ym0re.cn/archives/htb-driver
@@ -8,6 +13,7 @@ Exploit Review
 https://github.com/calebstewart/CVE-2021-1675
 
 IDA / Windows Internals Review
+https://hex-rays.com/blog/igors-tip-of-the-week-55-using-debug-symbols/
 https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-copyfile#syntax
 https://www.amazon.com/Windows-Kernel-Programming-Pavel-Yosifovich/dp/1977593372
 https://github.com/MicrosoftDocs/windows-driver-docs/blob/staging/windows-driver-docs-pr/debugger/getting-started-with-windbg--kernel-mode-.md
@@ -40,3 +46,6 @@ https://www.sygnia.co/demystifying-the-printnightmare-vulnerability
 API Monitor:
 http://www.rohitab.com/api-monitor-tutorial-monitoring-your-first-application
 https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools/tree/main/NtObjectManager
+
+Bindiff:
+https://rioasmara.com/2021/12/03/basic-patch-diffing/
