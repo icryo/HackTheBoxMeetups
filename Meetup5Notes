@@ -1,42 +1,44 @@
 **Handout**
 
-Downloads
+Downloads:
 https://download.sysinternals.com/files/SysinternalsSuite.zip
 https://out7.hex-rays.com/files/idafree76_windows.exe
 http://www.rohitab.com/apimonitor
+OPTIONAL- https://www.zynamics.com/bindiff.html
+OPTIONAL- https://github.com/silverf0x/RpcView
 
-Driver Walkthrough
+Driver Walkthrough:
 https://www.0xsakthi.rocks/2021/10/driver-hackthebox-writeup.html
 https://www.cl4ym0re.cn/archives/htb-driver
 
-Exploit Review
+Exploit Review:
 https://github.com/calebstewart/CVE-2021-1675
 
-IDA / Windows Internals Review
+IDA / Windows Internals Review:
 https://hex-rays.com/blog/igors-tip-of-the-week-55-using-debug-symbols/
 https://docs.microsoft.com/en-us/windows/win32/api/winbase/nf-winbase-copyfile#syntax
 https://www.amazon.com/Windows-Kernel-Programming-Pavel-Yosifovich/dp/1977593372
 https://github.com/MicrosoftDocs/windows-driver-docs/blob/staging/windows-driver-docs-pr/debugger/getting-started-with-windbg--kernel-mode-.md
 
-Payload Review
+Payload Review:
 https://docs.microsoft.com/en-us/windows/win32/api/lmaccess/nf-lmaccess-netlocalgroupaddmembers
 https://docs.microsoft.com/en-us/windows/win32/api/lmaccess/ns-lmaccess-user_info_1
 https://github.com/calebstewart/CVE-2021-1675/blob/main/nightmare-dll/nightmare/dllmain.cpp
 
-PrintNightmare PoCs
+PrintNightmare PoCs:
 https://github.com/calebstewart/CVE-2021-1675/
 https://github.com/ly4k/PrintNightmare
 https://github.com/cube0x0/CVE-2021-1675
 https://web.archive.org/web/20210630054520/https://github.com/afwu/PrintNightmare
 
-What is MS-RPRN / MS-PAR
+What is MS-RPRN / MS-PAR:
 https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-rprn/848b8334-134a-4d02-aea4-03b673d6c515
 https://docs.microsoft.com/en-us/openspecs/windows_protocols/ms-par/695e3f9a-f83f-479a-82d9-ba260497c2d0
 
-Capability Abstraction
+Capability Abstraction:
 https://posts.specterops.io/capability-abstraction-fbeaeeb26384
 
-Protocol Analysis PrintNightmare
+Protocol Analysis PrintNightmare:
 https://www.hackthebox.com/blog/windows-protocols-python
 
 Detection:
